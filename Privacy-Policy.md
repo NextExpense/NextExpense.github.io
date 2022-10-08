@@ -2,10 +2,9 @@
 layout: default
 ---
 
-[Back](/index)
+[Home](/Home)
+
 # Privacy Policy
-
-
 
 Flow Developers built the Next Expense app as a Commercial app. This SERVICE is provided by Flow Developers and is intended for use as is.
 
@@ -21,7 +20,7 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app does use third-party services that may collect information used to identify you.
 
-Link to the privacy policy of third-party service providers used by the app
+Link to the privacy policy of third-party service providers used by the app:
 
 [Google Play Services](https://policies.google.com/privacy)
 
