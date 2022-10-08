@@ -3,6 +3,6 @@ plugins:
   - jekyll-remote-theme
 
 title: Next Expense
-description: Track and Manage your receipts for all types of expenses
+description: Expense tracking, the easy way
 show_downloads: false
 google_analytics:
