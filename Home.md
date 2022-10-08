@@ -5,27 +5,17 @@ layout: default
 
 # Home
 
-<pre>
+
 Instantly scan and upload your expenses with one click. Log your expense history and accees a detailed breakdown of your expenses.
 Generate practical reports.
 
+&nbsp;
 
-
-
-
-
-
-
-
-
-
-</pre>     
-
-
+&nbsp;
 
 
 
 #### More
-[Privacy Policy](/Privacy-Policy)     [Terms & Conditions](/Terms-Conditions)
+[Privacy Policy](/Privacy-Policy)  &nbsp; &nbsp;    [Terms & Conditions](/Terms-Conditions)
 
 
