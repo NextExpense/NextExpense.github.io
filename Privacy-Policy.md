@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](/README)
+[Home](/Home)
 
 # Privacy Policy
 
