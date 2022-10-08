@@ -5,6 +5,8 @@ layout: default
 
 # Privacy Policy
 
+[An Internal Link to a Section Heading](/other)
+
 Flow Developers built the Next Expense app as a Commercial app. This SERVICE is provided by Flow Developers and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
