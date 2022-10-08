@@ -38,9 +38,9 @@ This Service does not use these “cookies” explicitly. However, the app may u
 We may employ third-party companies and individuals due to the following reasons:
 
 * To facilitate our Service;
-    To provide the Service on our behalf;
-    To perform Service-related services; or
-    To assist us in analyzing how our Service is used.
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.
 
 We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
@@ -60,7 +60,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-10-01
+This policy is effective as of 2022-01-01
 
 ### Contact Us
 
