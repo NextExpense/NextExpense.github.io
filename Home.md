@@ -3,11 +3,9 @@ layout: default
 ---
 
 
-# Home
+# About
 
-
-Instantly scan and upload your expenses with one click. Log your expense history and accees a detailed breakdown of your expenses.
-Generate practical reports.
+A simple way to track and manage expenses from your mobile device. Instantly scan and upload receipts with one click. Log expense history and track your expenses with great detail. Generate reports with data tailord to your needs. 
 
 &nbsp;
 
@@ -20,6 +18,9 @@ Generate practical reports.
 
 &nbsp;
 
+#### Contact Us
+
+For more information, contact us at contact.nextexpense@gmail.com.
 
 &nbsp;
 
@@ -31,11 +32,18 @@ Generate practical reports.
 
 
 &nbsp;
-
-
 
 #### More
 
 [Privacy Policy](/Privacy-Policy)  &nbsp; &nbsp;    [Terms & Conditions](/Terms-Conditions)
 
+&nbsp;
 
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
