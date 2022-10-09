@@ -35,11 +35,3 @@ For more information, contact us at contact.nextexpense@gmail.com.
 
 &nbsp;
 
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
