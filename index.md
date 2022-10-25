@@ -15,18 +15,18 @@ No need to bother with manual expense entry, tracking, and reporting. Next Expen
 
 Next Expense is your virtual expense tracker with:
 
-INSTANT SCAN: With the instant scan feature, Next Expense instantly identifies important details from your scanned receipt and automatically logs them for you with great accuracy as if it were manually done by you. Saving you time and effort. No internet connection is required, so you can scan receipts anytime, anywhere.
+**INSTANT SCAN:** With the instant scan feature, Next Expense instantly identifies important details from your scanned receipt and automatically logs them for you with great accuracy as if it were manually done by you. Saving you time and effort. No internet connection is required, so you can scan receipts anytime, anywhere.
 
-REPORT GENERATION & SHARING: Due for reimbursement? Easily generate
+**REPORT GENERATION & SHARING:** Due for reimbursement? Easily generate
 professional expense reports that you can then share with your accountant, co-workers, or clients. Use the custom filters feature to generate reports specific to your needs. Filter by categories, currencies, and payment methods.
 
-EXPENSE INSIGHTS: Want quick insights into your expenses to better understand your current expenditure and how much money has gone out? Head over to the insights page for a quick overview and detailed breakdown of all your expenses by category, currency, and payment method. Need to share this information? Simply generate an insights report using the custom filters feature to display only the information you need. 
+**EXPENSE INSIGHTS:** Want quick insights into your expenses to better understand your current expenditure and how much money has gone out? Head over to the insights page for a quick overview and detailed breakdown of all your expenses by category, currency, and payment method. Need to share this information? Simply generate an insights report using the custom filters feature to display only the information you need. 
 
-RECEIPT STORAGE AND SECURITY: With Next Expense, your receipts are safely stored within the app, allowing you to easily access them when necessary. All your receipts and expense details are kept confidential and safe from any third parties. 
+**RECEIPT STORAGE AND SECURITY:** With Next Expense, your receipts are safely stored within the app, allowing you to easily access them when necessary. All your receipts and expense details are kept confidential and safe from any third parties. 
 
-MORE TO COME: At Next Expense, we aim for the stars and therefore we are always working hard to add new features and improvements to the app. Stay tuned for future upgrades and additions…
+**MORE TO COME:** At Next Expense, we aim for the stars and therefore we are always working hard to add new features and improvements to the app. Stay tuned for future upgrades and additions…
 
-Download now!
+**Download now!**
 
 
 &nbsp;
