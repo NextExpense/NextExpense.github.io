@@ -5,7 +5,7 @@ layout: default
 
 # About
 
-Instantly scan and upload receipt details, manage expense records, generate reports, and track both individual and business expenses all in one place. Download Next Expense today and never lose track of your expenses ever again. No logins or internet connection required.
+Instantly scan and upload receipt details, manage expense records, generate reports, and track both individual and business expenses all in one place. Download Next Expense today and never lose track of your expenses ever again.
 
 Next Expense is an expense tracking and reporting app that takes away the hassle and hard
 work  of managing your personal and business expenses by hand and instead allows you  to easily  track expenses, access records, and generate professional expense reports for
