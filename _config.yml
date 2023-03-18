@@ -3,5 +3,5 @@ plugins:
   - jekyll-remote-theme
 
 title: Next Expense
-description: Expense tracking made simple
+description: Expense with ease
 google_analytics:
